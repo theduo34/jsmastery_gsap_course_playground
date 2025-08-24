@@ -8,9 +8,6 @@ gsap.to(".card", {
       repeat: -1,
       duration: 0.5,
       yoyo: true,
-      onComplete: () => {
-        alert("Second one complete")
-      }
     })
   }
 })
