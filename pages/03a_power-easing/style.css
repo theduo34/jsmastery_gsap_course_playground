@@ -1,0 +1,48 @@
+.body{
+    display: flex;
+    width: 100%;
+}
+
+.boxes{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    color: white;
+    opacity: 1;
+}
+
+.linear{
+    background-color: green;
+}
+.power1{
+    background-color: blue;
+}
+.power2{
+    background-color: red;
+}
+.power3{
+    background-color: #4a24bd;
+}
+.power4{
+    background-color: orange;
+}
+/*.rough{*/
+/*    background-color: #00ffd9;*/
+/*}*/
+/*.elastic{*/
+/*    background-color: #d000ff;*/
+/*}*/
+/*.power{*/
+/*    background-color: #dd9479;*/
+/*}*/
