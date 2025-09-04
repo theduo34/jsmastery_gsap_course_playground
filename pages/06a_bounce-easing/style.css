@@ -1,0 +1,15 @@
+
+
+.green{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(8, 239, 61);
+    opacity: 1;
+}
+
+.purple{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(128, 36, 228);
+    opacity: 1;
+}
