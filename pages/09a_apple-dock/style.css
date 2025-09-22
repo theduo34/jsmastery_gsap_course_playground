@@ -44,7 +44,7 @@ body {
   font-size: 32px;
   color: white;
   transform: scale(0);
-  opacity: 0;
+  opacity: 0z;
   will-change: transform;
 
   img {
